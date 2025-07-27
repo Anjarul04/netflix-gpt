@@ -1,13 +1,8 @@
 
-import './App.css'
-import React from 'react'
+import Body from "./components.js/Body";
 
 const App = () => {
-  return (
-    <div>
-      <h1>Namaste Everyone let's build the netflix+gpt</h1>
-    </div>
-  )
-}
+  return <Body />;
+};
 
-export default App
+export default App;

@@ -1,6 +1,9 @@
 # netflix-gpt
 - @npm create vite@latest netflix-gpt
 - configured TailwindCSS
+- Header
+- login form
+- sing up form
 
 # Feature
 login/signUp
