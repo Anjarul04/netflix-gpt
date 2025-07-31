@@ -25,7 +25,7 @@
 - updated the store for movies data
 - planing for mainContainer or SecondryContainer
 - fetch data for trailer videos
-- update the store with trailer videos data
+- update the store with trailer videos data- 
 - Embaded the youtube videos and make it autoplay and mute
 - Tailwind class to make maincontainer look awesome
 - build secontry component
@@ -34,6 +34,11 @@
 - TMDB Image CDN
 - made the browser base amazing with the tailwind css
 - usePopular movis with cutom hook
+- GPT Search page
+- GPT Search Bar
+- Langauge feature of our app
+- integrate gpt API 
+
 
 # Feature
 
