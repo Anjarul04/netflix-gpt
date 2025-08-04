@@ -121,7 +121,7 @@ const Login = () => {
 
           <button
             onClick={handelButtonClick}
-            className="w-full py-3 bg-red-600 rounded font-semibold hover:bg-red-700 transition duration-300"
+            className="w-full py-3 bg-red-600 rounded font-semibold hover:bg-red-700 transition duration-300 cursor-pointer"
           >
             {isSignInForm ? "Sign In" : "Sign Up"}
           </button>
