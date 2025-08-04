@@ -54,3 +54,7 @@ login/signUp - Sign In / Sign up form - redirect to browser page
     - MoviesList \* N
 - NetflixGPT
   - Movies suggestion
+
+
+
+Project Live Link : https://stirring-sfogliatella-7aa7ce.netlify.app/ 
