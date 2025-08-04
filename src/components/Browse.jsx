@@ -7,6 +7,7 @@ import Header from "./Header";
 import MainContainer from "./MainContainer";
 import SecondaryContainer from "./SecondaryContainer";
 import GptSearchPage from "./GptSearchPage";
+import Footer from "./Footer";
 
 const Browse = () => {
   const showGptSearch = useSelector((store) => store?.gpt.showGptSearch);
@@ -19,6 +20,7 @@ const Browse = () => {
   return (
     <div>
       <Header />
+      
       {showGptSearch ? (
         <GptSearchPage />
       ) : (
@@ -27,6 +29,7 @@ const Browse = () => {
           <SecondaryContainer />
         </>
       )}
+      <Footer/>
     </div>
   );
 };

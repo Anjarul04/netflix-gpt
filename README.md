@@ -38,6 +38,7 @@
 - GPT Search Bar
 - Langauge feature of our app
 - integrate gpt API 
+- making responsive
 
 
 # Feature
